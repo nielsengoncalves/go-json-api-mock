@@ -1,0 +1,1 @@
+# go-json-api-mock
